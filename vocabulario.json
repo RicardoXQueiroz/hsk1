@@ -1,0 +1,570 @@
+{
+  "deck": "HSK1 - Vocabulário Completo",
+  "flashcards": [
+    {
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "significado": "Amar"
+    },
+    {
+      "hanzi": "八",
+      "pinyin": "bā",
+      "significado": "Oito"
+    },
+    {
+      "hanzi": "爸爸",
+      "pinyin": "bàba",
+      "significado": "Pai"
+    },
+    {
+      "hanzi": "杯子",
+      "pinyin": "bēizi",
+      "significado": "Copo, xícara"
+    },
+    {
+      "hanzi": "北京",
+      "pinyin": "Běijīng",
+      "significado": "Pequim"
+    },
+    {
+      "hanzi": "不",
+      "pinyin": "bù",
+      "significado": "Não"
+    },
+    {
+      "hanzi": "吃",
+      "pinyin": "chī",
+      "significado": "Comer"
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de",
+      "significado": "Partícula possessiva"
+    },
+    {
+      "hanzi": "儿子",
+      "pinyin": "érzi",
+      "significado": "Filho"
+    },
+    {
+      "hanzi": "工作",
+      "pinyin": "gōngzuò",
+      "significado": "Trabalho"
+    },
+    {
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "significado": "Bom"
+    },
+    {
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "significado": "Beber"
+    },
+    {
+      "hanzi": "很",
+      "pinyin": "hěn",
+      "significado": "Muito"
+    },
+    {
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "significado": "Casa, família"
+    },
+    {
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "significado": "Chamar"
+    },
+    {
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "significado": "Ver"
+    },
+    {
+      "hanzi": "可",
+      "pinyin": "kě",
+      "significado": "Pode, possível"
+    },
+    {
+      "hanzi": "了",
+      "pinyin": "le",
+      "significado": "Partícula que indica mudança"
+    },
+    {
+      "hanzi": "妈妈",
+      "pinyin": "māma",
+      "significado": "Mãe"
+    },
+    {
+      "hanzi": "吗",
+      "pinyin": "ma",
+      "significado": "Partícula de pergunta"
+    },
+    {
+      "hanzi": "没",
+      "pinyin": "méi",
+      "significado": "Não ter"
+    },
+    {
+      "hanzi": "米饭",
+      "pinyin": "mǐfàn",
+      "significado": "Arroz cozido"
+    },
+    {
+      "hanzi": "名字",
+      "pinyin": "míngzì",
+      "significado": "Nome"
+    },
+    {
+      "hanzi": "哪",
+      "pinyin": "nǎ",
+      "significado": "Qual"
+    },
+    {
+      "hanzi": "那",
+      "pinyin": "nà",
+      "significado": "Aquele"
+    },
+    {
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "significado": "Você"
+    },
+    {
+      "hanzi": "宁",
+      "pinyin": "níng",
+      "significado": "Você (formal)"
+    },
+    {
+      "hanzi": "朋友",
+      "pinyin": "péngyǒu",
+      "significado": "Amigo"
+    },
+    {
+      "hanzi": "苹果",
+      "pinyin": "píngguǒ",
+      "significado": "Maçã"
+    },
+    {
+      "hanzi": "前",
+      "pinyin": "qián",
+      "significado": "Frente"
+    },
+    {
+      "hanzi": "去",
+      "pinyin": "qù",
+      "significado": "Ir"
+    },
+    {
+      "hanzi": "热",
+      "pinyin": "rè",
+      "significado": "Quente"
+    },
+    {
+      "hanzi": "三",
+      "pinyin": "sān",
+      "significado": "Três"
+    },
+    {
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "significado": "Acima, em cima"
+    },
+    {
+      "hanzi": "是",
+      "pinyin": "shì",
+      "significado": "Ser, estar"
+    },
+    {
+      "hanzi": "书",
+      "pinyin": "shū",
+      "significado": "Livro"
+    },
+    {
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "significado": "Água"
+    },
+    {
+      "hanzi": "岁",
+      "pinyin": "suì",
+      "significado": "Ano (idade)"
+    },
+    {
+      "hanzi": "他",
+      "pinyin": "tā",
+      "significado": "Ele"
+    },
+    {
+      "hanzi": "她",
+      "pinyin": "tā",
+      "significado": "Ela"
+    },
+    {
+      "hanzi": "他们",
+      "pinyin": "tāmen",
+      "significado": "Eles"
+    },
+    {
+      "hanzi": "天",
+      "pinyin": "tiān",
+      "significado": "Dia, céu"
+    },
+    {
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "significado": "Ouvir"
+    },
+    {
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "significado": "Pequeno"
+    },
+    {
+      "hanzi": "喜欢",
+      "pinyin": "xǐhuān",
+      "significado": "Gostar"
+    },
+    {
+      "hanzi": "一",
+      "pinyin": "yī",
+      "significado": "Um"
+    },
+    {
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "significado": "Ter"
+    },
+    {
+      "hanzi": "在",
+      "pinyin": "zài",
+      "significado": "Em, estar em"
+    },
+    {
+      "hanzi": "这",
+      "pinyin": "zhè",
+      "significado": "Este"
+    },
+    {
+      "hanzi": "中国",
+      "pinyin": "Zhōngguó",
+      "significado": "China"
+    },
+    {
+      "hanzi": "桌子",
+      "pinyin": "zhuōzi",
+      "significado": "Mesa"
+    },
+    {
+      "hanzi": "再见",
+      "pinyin": "zàijiàn",
+      "significado": "Adeus"
+    },
+    {
+      "hanzi": "谢谢",
+      "pinyin": "xièxiè",
+      "significado": "Obrigado"
+    },
+    {
+      "hanzi": "对不起",
+      "pinyin": "duìbùqǐ",
+      "significado": "Desculpe"
+    },
+    {
+      "hanzi": "没关系",
+      "pinyin": "méi guānxi",
+      "significado": "Não tem problema"
+    },
+    {
+      "hanzi": "帮忙",
+      "pinyin": "bāngmáng",
+      "significado": "Ajudar"
+    },
+    {
+      "hanzi": "开始",
+      "pinyin": "kāishǐ",
+      "significado": "Começar"
+    },
+    {
+      "hanzi": "学习",
+      "pinyin": "xuéxí",
+      "significado": "Estudar"
+    },
+    {
+      "hanzi": "准备",
+      "pinyin": "zhǔnbèi",
+      "significado": "Preparar"
+    },
+    {
+      "hanzi": "旅行",
+      "pinyin": "lǚxíng",
+      "significado": "Viajar"
+    },
+    {
+      "hanzi": "开心",
+      "pinyin": "kāixīn",
+      "significado": "Feliz"
+    },
+    {
+      "hanzi": "生病",
+      "pinyin": "shēngbìng",
+      "significado": "Ficar doente"
+    },
+    {
+      "hanzi": "累",
+      "pinyin": "lèi",
+      "significado": "Cansado"
+    },
+    {
+      "hanzi": "忙",
+      "pinyin": "máng",
+      "significado": "Ocupado"
+    },
+    {
+      "hanzi": "慢",
+      "pinyin": "màn",
+      "significado": "Devagar"
+    },
+    {
+      "hanzi": "快",
+      "pinyin": "kuài",
+      "significado": "Rápido"
+    },
+    {
+      "hanzi": "高兴",
+      "pinyin": "gāoxìng",
+      "significado": "Alegre"
+    },
+    {
+      "hanzi": "简单",
+      "pinyin": "jiǎndān",
+      "significado": "Simples"
+    },
+    {
+      "hanzi": "等",
+      "pinyin": "děng",
+      "significado": "Esperar"
+    },
+    {
+      "hanzi": "走",
+      "pinyin": "zǒu",
+      "significado": "Caminhar"
+    },
+    {
+      "hanzi": "吃饭",
+      "pinyin": "chīfàn",
+      "significado": "Comer (refeição)"
+    },
+    {
+      "hanzi": "面条",
+      "pinyin": "miàntiáo",
+      "significado": "Macarrão"
+    },
+    {
+      "hanzi": "蛋糕",
+      "pinyin": "dàngāo",
+      "significado": "Bolo"
+    },
+    {
+      "hanzi": "甜",
+      "pinyin": "tián",
+      "significado": "Doce"
+    },
+    {
+      "hanzi": "苦",
+      "pinyin": "kǔ",
+      "significado": "Amargo"
+    },
+    {
+      "hanzi": "酸",
+      "pinyin": "suān",
+      "significado": "Azedo"
+    },
+    {
+      "hanzi": "咸",
+      "pinyin": "xián",
+      "significado": "Salgado"
+    },
+    {
+      "hanzi": "香",
+      "pinyin": "xiāng",
+      "significado": "Aromático"
+    },
+    {
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "significado": "Frio"
+    },
+    {
+      "hanzi": "早",
+      "pinyin": "zǎo",
+      "significado": "Cedo"
+    },
+    {
+      "hanzi": "晚",
+      "pinyin": "wǎn",
+      "significado": "Tarde"
+    },
+    {
+      "hanzi": "空",
+      "pinyin": "kōng",
+      "significado": "Vazio"
+    },
+    {
+      "hanzi": "满",
+      "pinyin": "mǎn",
+      "significado": "Cheio"
+    },
+    {
+      "hanzi": "干",
+      "pinyin": "gān",
+      "significado": "Seco"
+    },
+    {
+      "hanzi": "湿",
+      "pinyin": "shī",
+      "significado": "Úmido"
+    },
+    {
+      "hanzi": "明天",
+      "pinyin": "míngtiān",
+      "significado": "Amanhã"
+    },
+    {
+      "hanzi": "今天",
+      "pinyin": "jīntiān",
+      "significado": "Hoje"
+    },
+    {
+      "hanzi": "昨天",
+      "pinyin": "zuótiān",
+      "significado": "Ontem"
+    },
+    {
+      "hanzi": "小时",
+      "pinyin": "xiǎoshí",
+      "significado": "Hora"
+    },
+    {
+      "hanzi": "分钟",
+      "pinyin": "fēnzhōng",
+      "significado": "Minuto"
+    },
+    {
+      "hanzi": "秒",
+      "pinyin": "miǎo",
+      "significado": "Segundo"
+    },
+    {
+      "hanzi": "年",
+      "pinyin": "nián",
+      "significado": "Ano"
+    },
+    {
+      "hanzi": "月",
+      "pinyin": "yuè",
+      "significado": "Mês"
+    },
+    {
+      "hanzi": "星期",
+      "pinyin": "xīngqī",
+      "significado": "Semana"
+    },
+    {
+      "hanzi": "星期一",
+      "pinyin": "xīngqī yī",
+      "significado": "Segunda-feira"
+    },
+    {
+      "hanzi": "星期二",
+      "pinyin": "xīngqī èr",
+      "significado": "Terça-feira"
+    },
+    {
+      "hanzi": "星期三",
+      "pinyin": "xīngqī sān",
+      "significado": "Quarta-feira"
+    },
+    {
+      "hanzi": "星期四",
+      "pinyin": "xīngqī sì",
+      "significado": "Quinta-feira"
+    },
+    {
+      "hanzi": "星期五",
+      "pinyin": "xīngqī wǔ",
+      "significado": "Sexta-feira"
+    },
+    {
+      "hanzi": "星期六",
+      "pinyin": "xīngqī liù",
+      "significado": "Sábado"
+    },
+    {
+      "hanzi": "星期天",
+      "pinyin": "xīngqī tiān",
+      "significado": "Domingo"
+    },
+    {
+      "hanzi": "真",
+      "pinyin": "zhēn",
+      "significado": "Verdadeiro"
+    },
+    {
+      "hanzi": "假",
+      "pinyin": "jiǎ",
+      "significado": "Falso"
+    },
+    {
+      "hanzi": "重要",
+      "pinyin": "zhòngyào",
+      "significado": "Importante"
+    },
+    {
+      "hanzi": "困难",
+      "pinyin": "kùnnán",
+      "significado": "Difícil"
+    },
+    {
+      "hanzi": "容易",
+      "pinyin": "róngyì",
+      "significado": "Fácil"
+    },
+    {
+      "hanzi": "快乐",
+      "pinyin": "kuàilè",
+      "significado": "Feliz"
+    },
+    {
+      "hanzi": "害怕",
+      "pinyin": "hàipà",
+      "significado": "Ter medo"
+    },
+    {
+      "hanzi": "相信",
+      "pinyin": "xiāngxìn",
+      "significado": "Acreditar"
+    },
+    {
+      "hanzi": "希望",
+      "pinyin": "xīwàng",
+      "significado": "Esperar, desejar"
+    },
+    {
+      "hanzi": "努力",
+      "pinyin": "nǔlì",
+      "significado": "Esforçar-se"
+    },
+    {
+      "hanzi": "成功",
+      "pinyin": "chénggōng",
+      "significado": "Ter sucesso"
+    },
+    {
+      "hanzi": "失败",
+      "pinyin": "shībài",
+      "significado": "Falhar"
+    }
+  ]
+}
