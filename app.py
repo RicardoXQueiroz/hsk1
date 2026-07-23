@@ -9,7 +9,6 @@ from flask_cors import CORS
 import random
 import json
 import os
-from gtts import gTTS
 
 app = Flask(__name__)
 
@@ -48,14 +47,18 @@ def get_all_words():
 
 @app.route("/api/audio/<hanzi>")
 def get_audio(hanzi):
-    """Gera (se necessário) e serve o áudio em mandarim do caractere."""
+    """
+    Serve o áudio pré-gerado do caractere.
+    IMPORTANTE: o áudio é gerado ANTES do deploy (rode gerar_audios.py localmente)
+    e enviado junto no repositório. Gerar via gTTS em tempo real no Render
+    costuma bater rate limit (erro 429) do Google, por isso não fazemos isso aqui.
+    """
     if hanzi not in by_hanzi:
         abort(404, description="Palavra não encontrada no deck")
 
     filename = os.path.join(AUDIO_DIR, f"{hanzi}.mp3")
     if not os.path.exists(filename):
-        tts = gTTS(text=hanzi, lang="zh")
-        tts.save(filename)
+        abort(404, description="Áudio ainda não foi gerado para essa palavra. Rode gerar_audios.py e faça novo deploy.")
 
     return send_file(filename, mimetype="audio/mpeg")
 
